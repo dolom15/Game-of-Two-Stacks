@@ -1,1 +1,1 @@
-# Game-of-Two-Stacks
+# Game-of-Two-Stacks This code finds the maximum number of elements that can be taken from the tops of two stacks without exceeding a given `maxSum`, using prefix sums and a two-pointer approach for efficiency. The `twoStacks` function computes cumulative sums for each stack and then iterates to find the largest combined count of elements that stay within the sum limit.
